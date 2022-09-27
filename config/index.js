@@ -30,8 +30,9 @@ export const config = {
       name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oVRlR563yNWSmxHX2Yai8RRrR_cM",
-      id: "oVRlR5xcSRn8Vpjpt_WuuHBJNh08",
       // 你想对他发送的模板消息的模板ID
+      useTemplateId: "nuCcp5aKj0MhrIrjSaQi6LHT9Va7_VZNWyVMVmaXC1U",
+      id: "oVRlR5xcSRn8Vpjpt_WuuHBJNh08",
       useTemplateId: "nuCcp5aKj0MhrIrjSaQi6LHT9Va7_VZNWyVMVmaXC1U",
       // 所在省份
       province: "湖南",
